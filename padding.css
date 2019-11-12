@@ -13,6 +13,14 @@
 .pr0 {
     padding-right: 0;
 }
+.px0 {
+    padding-left: 0;
+    padding-right: 0;
+}
+.py0 {
+    padding-top: 0;
+    padding-bottom: 0;
+}
 .pHalf {
     padding: 0;
 }
@@ -27,6 +35,14 @@
 }
 .prHalf {
     padding-right: .5rem;
+}
+.pxHalf {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+.pyHalf {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
 }
 .p1 {
     padding: 1rem;
@@ -43,6 +59,14 @@
 .pr1 {
     padding-right: 1rem;
 }
+.px1 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.py1 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
 .p2 {
     padding: 2rem;
 }
@@ -57,6 +81,14 @@
 }
 .pr2 {
     padding-right: 2rem;
+}
+.px2 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.py2 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 .p3 {
     padding: 3rem;
@@ -73,6 +105,14 @@
 .pr3 {
     padding-right: 3rem;
 }
+.px3 {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.py3 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
 .p4 {
     padding: 4rem;
 }
@@ -87,6 +127,14 @@
 }
 .pr4 {
     padding-right: 4rem;
+}
+.px4 {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.py4 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
 .p5 {
     padding: 5rem;
@@ -103,6 +151,14 @@
 .pr5 {
     padding-right: 5rem;
 }
+.px5 {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.py5 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
 .p6 {
     padding: 6rem;
 }
@@ -118,6 +174,14 @@
 .pr6 {
     padding-right: 6rem;
 }
+.px6 {
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+.py6 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
 .p10 {
     padding: 10rem;
 }
@@ -132,4 +196,12 @@
 }
 .pr10 {
     padding-right: 10rem;
+}
+.px10 {
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.py10 {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
 }
