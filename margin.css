@@ -13,6 +13,14 @@
 .mr0 {
     margin-right: 0;
 }
+.mx0 {
+    margin-left: 0;
+    margin-right: 0;
+}
+.my0 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 .mHalf {
     margin: 0;
 }
@@ -27,6 +35,14 @@
 }
 .mrHalf {
     margin-right: .5rem;
+}
+.mxHalf {
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+.myHalf {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
 }
 .m1 {
     margin: 1rem;
@@ -43,6 +59,14 @@
 .mr1 {
     margin-right: 1rem;
 }
+.mx1 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.my1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 .m2 {
     margin: 2rem;
 }
@@ -57,6 +81,14 @@
 }
 .mr2 {
     margin-right: 2rem;
+}
+.mx2 {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.my2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 .m3 {
     margin: 3rem;
@@ -73,6 +105,14 @@
 .mr3 {
     margin-right: 3rem;
 }
+.mx3 {
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.my3 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
 .m4 {
     margin: 4rem;
 }
@@ -87,6 +127,14 @@
 }
 .mr4 {
     margin-right: 4rem;
+}
+.mx4 {
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+.my4 {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
 }
 .m5 {
     margin: 5rem;
@@ -103,6 +151,14 @@
 .mr5 {
     margin-right: 5rem;
 }
+.mx5 {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.my5 {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
 .m6 {
     margin: 6rem;
 }
@@ -118,6 +174,14 @@
 .mr6 {
     margin-right: 6rem;
 }
+.mx6 {
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+.my6 {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
 .m10 {
     margin: 10rem;
 }
@@ -132,4 +196,12 @@
 }
 .mr10 {
     margin-right: 10rem;
+}
+.mx10 {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.my10 {
+    margin-top: 10rem;
+    margin-bottom: 10rem;
 }
